@@ -1,4 +1,3 @@
-// https://api.openweathermap.org/data/2.5/weather?q=pune&appid=c1b87adcd9322cbe35f5e6b0669f2a7e
 import React, { useEffect, useState } from 'react'
 import Weathercard from './weathercard';
 import "./style.css"
